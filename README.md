@@ -122,11 +122,6 @@ Customer-Churn-Prediction/
 
 ### Aspiring Data Scientist & AI Enthusiast
 
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true" />
-
-<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:00F7FF,100:8E2DE2&section=footer" />
 
