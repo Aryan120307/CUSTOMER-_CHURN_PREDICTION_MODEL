@@ -38,5 +38,58 @@ Exploratory Data Analysis
 Feature Engineering
       ↓
 Model Training
+
+
+🚀 Features
+
+✨ Data Preprocessing
+✨ Customer Churn Analysis
+✨ Exploratory Data Analysis
+✨ Feature Engineering
+✨ Machine Learning Model Training
+✨ Prediction & Accuracy Evaluation
+
+🛠️ Tech Stack
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Scikit-learn
+Jupyter Notebook
+📊 Concepts Used
+Classification Algorithms
+Data Visualization
+Feature Selection
+Model Evaluation
+Predictive Analytics
+Customer Retention Analysis
+📂 Project Structure
+Customer-Churn-Prediction/
+│
+├── dataset/
+├── notebooks/
+├── models/
+├── churn_prediction.ipynb
+├── requirements.txt
+└── README.md
+🎯 Objective
+
+✔ Predict customer churn
+✔ Understand customer behavior
+✔ Apply real-world ML workflow
+✔ Improve retention strategies
+
+🔥 Future Scope
+
+🚀 Streamlit Deployment
+🚀 Real-time Dashboard
+🚀 API Integration
+🚀 Advanced ML Optimization
+
+<div align="center">
+👨‍💻 Aryan Sharma
+Aspiring Data Scientist & AI Enthusiast
+<br> <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true" /> <br> <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:00F7FF,100:8E2DE2&section=footer" /> </div> ```
       ↓
 Prediction System
